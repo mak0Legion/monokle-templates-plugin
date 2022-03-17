@@ -1,15 +1,13 @@
 {
-    "name" : "Templates plugin",
-    "description": "Custom template plugins",
-    "version": "1.0.1",
-    "author": "Piyush Singh",
-    "repository": "https://github.com/mak0Legion/monokle-templates-plugin",
-    "monoklePlugin" : {
-        "modules" : [
-            {
-                "type" : "template",
-                "path" : "basic-pod-template"
-            }
-        ]
-    }
+	"name": "Templates plugin",
+	"description": "Custom templates plugin",
+	"version": "1.0.0",
+	"author": "Piyush Singh",
+	"repository": "https://github.com/mak0Legion/monokle-templates-plugin",
+	"monoklePlugin": {
+		"modules": [{
+			"type": "template",
+			"path": "basic-pod-template"
+		}]
+	}
 }
